@@ -36,23 +36,23 @@ Below are the detailed screenshots from `passwordmeter.com` for each test.
 
 ---
 **Test 2: `Harry123` (Score: 63%)**
-* ![Test 2 - Top](PASTE-SCREENSHOT-165924.png-LINK-HERE)
-* ![Test 2 - Bottom](PASTE-SCREENSHOT-165934.png-LINK-HERE)
+* ![Test 2 - Top](https://github.com/HanumandlaHarikrishna07/elevatelabs-cyber-task-6/blob/main/screenshots/simple.png)
+* ![Test 2 - Bottom](https://github.com/HanumandlaHarikrishna07/elevatelabs-cyber-task-6/blob/main/screenshots/simple%20reults.png)
 
 ---
 **Test 3: `Harry@123` (Score: 81%)**
-* ![Test 3 - Top](PASTE-SCREENSHOT-170005.png-LINK-HERE)
-* ![Test 3 - Bottom](PASTE-SCREENSHOT-170015.png-LINK-HERE)
+* ![Test 3 - Top](https://github.com/HanumandlaHarikrishna07/elevatelabs-cyber-task-6/blob/main/screenshots/some%20complexity.png)
+* ![Test 3 - Bottom](https://github.com/HanumandlaHarikrishna07/elevatelabs-cyber-task-6/blob/main/screenshots/some%20complexity%20results.png)
 
 ---
 **Test 4: `Harry@#123@` (Score: 100%)**
-* ![Test 4 - Top](PASTE-SCREENSHOT-170115.png-LINK-HERE)
-* ![Test 4 - Bottom](PASTE-SCREENSHOT-170122.png-LINK-HERE)
+* ![Test 4 - Top](https://github.com/HanumandlaHarikrishna07/elevatelabs-cyber-task-6/blob/main/screenshots/long%20and%20complex.png)
+* ![Test 4 - Bottom](https://github.com/HanumandlaHarikrishna07/elevatelabs-cyber-task-6/blob/main/screenshots/long%20and%20complex%20results.png)
 
 ---
 **Test 5: `Harry@07/07/2000` (Score: 100%)**
-* ![Test 5 - Top](PASTE-SCREENSHOT-170158.png-LINK-HERE)
-* ![Test 5 - Bottom](PASTE-SCREENSHOT-170209.png-LINK-HERE)
+* ![Test 5 - Top](https://github.com/HanumandlaHarikrishna07/elevatelabs-cyber-task-6/blob/main/screenshots/passphrase.png)
+* ![Test 5 - Bottom](https://github.com/HanumandlaHarikrishna07/elevatelabs-cyber-task-6/blob/main/screenshots/passphrase%20results.png)
 
 ---
 
