@@ -32,7 +32,7 @@ Below are the detailed screenshots from `passwordmeter.com` for each test.
 ---
 **Test 1: `123456` (Score: 4%)**
 * ![Test 1 - Top](https://github.com/HanumandlaHarikrishna07/elevatelabs-cyber-task-6/blob/main/screenshots/common.png)
-* ![Test 1 - Bottom]()
+* ![Test 1 - Bottom](https://github.com/HanumandlaHarikrishna07/elevatelabs-cyber-task-6/blob/main/screenshots/common%20test%20results.png)
 
 ---
 **Test 2: `Harry123` (Score: 63%)**
